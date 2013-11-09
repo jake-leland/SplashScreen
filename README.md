@@ -3,7 +3,7 @@ SplashScreen
 
 A replica of the Processing 1.* splash screen
 
-*Note: This is a [Processing](http://processing.com) sketch.*
+*Note: This is a [Processing](http://processing.org) sketch.*
 
 This is a visual program indended to replicate the splash screen of Processing 1.*
 
