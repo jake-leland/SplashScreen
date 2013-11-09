@@ -1,14 +1,11 @@
 SplashScreen
 ============
 
-A replica of the Processing 1.* splash screen
+A replica of the Processing 1.* splash screen.
 
 *Note: This is a [Processing](http://processing.org) sketch.*
 
-This is a visual program indended to replicate the splash screen of Processing 1.*
-
-There is no need to change anything in this code,
-The keyboard can be used to dynamically change the values.
+This is a visual program indended to replicate the [splash screen of Processing 1.*](http://rasterweb.net/raster/wp-content/uploads/2011/05/processing.jpg).
 
 - Click to create a LinkedCircle.
 - Press space to bump the circles up off the ground (if they are resting on the ground).
